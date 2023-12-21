@@ -1,0 +1,15 @@
+index.php : 메인페이지
+addpost.php : 게시글 작성 폼 제공
+addpost2.php : INSERT INTO VALUES 쿼리 실행 
+addcomment.php : 댓글 작성 
+listpost.php : 게시글 목록
+editpost.php : 게시글 수정 폼 제공
+updatepost.php : 게시글 수정 UPDATE 쿼리 실행
+deletepost.php : 게시글 삭제, DELETE 쿼리 실행 
+postmanage.sql : 게시글, 댓글 테이블을 담은 스키마
+
+주요 기능 : 간단한 아이디와 비밀번호 입력으로 게시글 작성 가능
+	조회수가 10이 넘으면 메인페이지에 출력 기능
+	댓글기능 (삭제, 수정은 불가능)
+
+사용 개발툴 : VisualStudioCode 2023
